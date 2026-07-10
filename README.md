@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/brijesh175/dsa-apna-collage/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/brijesh175/dsa-apna-collage/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/brijesh175/dsa-apna-collage/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
