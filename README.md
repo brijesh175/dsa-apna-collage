@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/brijesh175/dsa-apna-collage/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -55,8 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/brijesh175/dsa-apna-collage/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
