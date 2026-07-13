@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/brijesh175/dsa-apna-collage/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/brijesh175/dsa-apna-collage/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/brijesh175/dsa-apna-collage/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/brijesh175/dsa-apna-collage/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/brijesh175/dsa-apna-collage/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/brijesh175/dsa-apna-collage/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
