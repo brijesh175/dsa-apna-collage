@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/brijesh175/dsa-apna-collage/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/brijesh175/dsa-apna-collage/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/brijesh175/dsa-apna-collage/tree/master/0415-add-strings) |
+| [2965-find-missing-and-repeated-values](https://github.com/brijesh175/dsa-apna-collage/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brijesh175/dsa-apna-collage/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2965-find-missing-and-repeated-values](https://github.com/brijesh175/dsa-apna-collage/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/brijesh175/dsa-apna-collage/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/brijesh175/dsa-apna-collage/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/brijesh175/dsa-apna-collage/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
