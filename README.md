@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/brijesh175/dsa-apna-collage/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/brijesh175/dsa-apna-collage/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/brijesh175/dsa-apna-collage/tree/master/0704-binary-search) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/brijesh175/dsa-apna-collage/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
