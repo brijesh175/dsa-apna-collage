@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/brijesh175/dsa-apna-collage/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/brijesh175/dsa-apna-collage/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/brijesh175/dsa-apna-collage/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/brijesh175/dsa-apna-collage/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/brijesh175/dsa-apna-collage/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0509-fibonacci-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/brijesh175/dsa-apna-collage/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
