@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/brijesh175/dsa-apna-collage/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/brijesh175/dsa-apna-collage/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/brijesh175/dsa-apna-collage/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/brijesh175/dsa-apna-collage/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0074-search-a-2d-matrix) |
@@ -130,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/brijesh175/dsa-apna-collage/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/brijesh175/dsa-apna-collage/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/brijesh175/dsa-apna-collage/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
