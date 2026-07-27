@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/brijesh175/dsa-apna-collage/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/brijesh175/dsa-apna-collage/tree/master/0042-trapping-rain-water) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/brijesh175/dsa-apna-collage/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brijesh175/dsa-apna-collage/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0287-find-the-duplicate-number) |
