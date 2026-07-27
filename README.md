@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/brijesh175/dsa-apna-collage/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/brijesh175/dsa-apna-collage/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/brijesh175/dsa-apna-collage/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/brijesh175/dsa-apna-collage/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/brijesh175/dsa-apna-collage/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/brijesh175/dsa-apna-collage/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/brijesh175/dsa-apna-collage/tree/master/0704-binary-search) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/brijesh175/dsa-apna-collage/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/brijesh175/dsa-apna-collage/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
