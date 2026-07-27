@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0977-squares-of-a-sorted-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/brijesh175/dsa-apna-collage/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/brijesh175/dsa-apna-collage/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0039-combination-sum) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/brijesh175/dsa-apna-collage/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brijesh175/dsa-apna-collage/tree/master/0167-two-sum-ii-input-array-is-sorted) |
