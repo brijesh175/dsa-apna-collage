@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/brijesh175/dsa-apna-collage/tree/master/0016-3sum-closest) |
+| [0611-valid-triangle-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0977-squares-of-a-sorted-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/brijesh175/dsa-apna-collage/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/brijesh175/dsa-apna-collage/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/brijesh175/dsa-apna-collage/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/brijesh175/dsa-apna-collage/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brijesh175/dsa-apna-collage/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/brijesh175/dsa-apna-collage/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/brijesh175/dsa-apna-collage/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brijesh175/dsa-apna-collage/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/brijesh175/dsa-apna-collage/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/brijesh175/dsa-apna-collage/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/brijesh175/dsa-apna-collage/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
