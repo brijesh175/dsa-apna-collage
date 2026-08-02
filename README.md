@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brijesh175/dsa-apna-collage/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/brijesh175/dsa-apna-collage/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/brijesh175/dsa-apna-collage/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/brijesh175/dsa-apna-collage/tree/master/0415-add-strings) |
 | [2785-sort-vowels-in-a-string](https://github.com/brijesh175/dsa-apna-collage/tree/master/2785-sort-vowels-in-a-string) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/brijesh175/dsa-apna-collage/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/brijesh175/dsa-apna-collage/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/brijesh175/dsa-apna-collage/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brijesh175/dsa-apna-collage/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0611-valid-triangle-number) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brijesh175/dsa-apna-collage/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/brijesh175/dsa-apna-collage/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/brijesh175/dsa-apna-collage/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/brijesh175/dsa-apna-collage/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brijesh175/dsa-apna-collage/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/brijesh175/dsa-apna-collage/tree/master/2965-find-missing-and-repeated-values) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/brijesh175/dsa-apna-collage/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/brijesh175/dsa-apna-collage/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/brijesh175/dsa-apna-collage/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/brijesh175/dsa-apna-collage/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/brijesh175/dsa-apna-collage/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/brijesh175/dsa-apna-collage/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0059-spiral-matrix-ii) |
