@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/brijesh175/dsa-apna-collage/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/brijesh175/dsa-apna-collage/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brijesh175/dsa-apna-collage/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/brijesh175/dsa-apna-collage/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/brijesh175/dsa-apna-collage/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/brijesh175/dsa-apna-collage/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/brijesh175/dsa-apna-collage/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/brijesh175/dsa-apna-collage/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0977-squares-of-a-sorted-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/brijesh175/dsa-apna-collage/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/brijesh175/dsa-apna-collage/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/brijesh175/dsa-apna-collage/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
