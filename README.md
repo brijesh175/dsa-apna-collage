@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/brijesh175/dsa-apna-collage/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/brijesh175/dsa-apna-collage/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0977-squares-of-a-sorted-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/brijesh175/dsa-apna-collage/tree/master/2785-sort-vowels-in-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brijesh175/dsa-apna-collage/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/brijesh175/dsa-apna-collage/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/brijesh175/dsa-apna-collage/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/brijesh175/dsa-apna-collage/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/brijesh175/dsa-apna-collage/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brijesh175/dsa-apna-collage/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/brijesh175/dsa-apna-collage/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/brijesh175/dsa-apna-collage/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/brijesh175/dsa-apna-collage/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brijesh175/dsa-apna-collage/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0287-find-the-duplicate-number) |
