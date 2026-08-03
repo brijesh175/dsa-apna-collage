@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brijesh175/dsa-apna-collage/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/brijesh175/dsa-apna-collage/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/brijesh175/dsa-apna-collage/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/brijesh175/dsa-apna-collage/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Array
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/brijesh175/dsa-apna-collage/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/brijesh175/dsa-apna-collage/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/brijesh175/dsa-apna-collage/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/brijesh175/dsa-apna-collage/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/brijesh175/dsa-apna-collage/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/brijesh175/dsa-apna-collage/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
